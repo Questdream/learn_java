@@ -32,3 +32,5 @@ idea是当前最受欢迎Java 编辑软件，本电子书的所有代码都是�
 
 ### 三、破解idea
 
+[无限30天重置](https://www.exception.site/essay/how-to-free-use-intellij-idea-2019-3)
+
